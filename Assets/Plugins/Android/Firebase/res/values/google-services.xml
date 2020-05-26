@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://desjuegos1-test.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">863320256891</string>
+  <string name="google_storage_bucket" translatable="false">desjuegos1-test.appspot.com</string>
+  <string name="project_id" translatable="false">desjuegos1-test</string>
+  <string name="google_api_key" translatable="false">AIzaSyAkqJnz_Ot5PDQcS48i-6WXamDbWa5duR4</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAkqJnz_Ot5PDQcS48i-6WXamDbWa5duR4</string>
+  <string name="google_app_id" translatable="false">1:863320256891:android:3a9073b0c1592712584dde</string>
+  <string name="default_web_client_id" translatable="false">863320256891-8gnd65iumab75uhfapocemul3tagudas.apps.googleusercontent.com</string>
+</resources>

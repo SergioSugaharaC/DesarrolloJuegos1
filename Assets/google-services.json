@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "863320256891",
+    "firebase_url": "https://desjuegos1-test.firebaseio.com",
+    "project_id": "desjuegos1-test",
+    "storage_bucket": "desjuegos1-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863320256891:android:3a9073b0c1592712584dde",
+        "android_client_info": {
+          "package_name": "com.DJ1.Juego4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863320256891-8gnd65iumab75uhfapocemul3tagudas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkqJnz_Ot5PDQcS48i-6WXamDbWa5duR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863320256891-8gnd65iumab75uhfapocemul3tagudas.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
